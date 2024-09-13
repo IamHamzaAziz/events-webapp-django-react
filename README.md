@@ -14,3 +14,11 @@ JWT (JSON Web Tokens) were used for authentication in this project
 
 # Database
 I used Django's defualt SQLite database for this project.
+
+# Screenshots
+Below are the some screenshots from this project
+<img src="screenshots/ScreenshotOne.png" alt="First Screenshot" style="margin: 5px 0px" />
+<img src="screenshots/ScreenshotTwo.png" alt="Second Screenshot" style="margin: 5px 0px" />
+<img src="screenshots/ScreenshotThree.png" alt="Third Screenshot" style="margin: 5px 0px" />
+<img src="screenshots/ScreenshotFour.png" alt="Four Screenshot" style="margin: 5px 0px" />
+<img src="screenshots/ScreenshotFive.png" alt="Fifth Screenshot" style="margin: 5px 0px" />
